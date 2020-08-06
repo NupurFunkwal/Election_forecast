@@ -1,6 +1,6 @@
 # Election_forecast
 
-The project aimed to build a model to predict the election outcomes by analyzing data on demographic parameters and the political background of contesting candidates. The report focuses on Secunderabad constituency.
+The project aimed to build a model to predict the election outcomes by analyzing data on demographic parameters and the political background of contesting candidates. The report focuses on Secunderabad constituency. The percentage vote share of winning parties in an election was predicted.
 
 The data was collected from SHRUG.
 Citation:
